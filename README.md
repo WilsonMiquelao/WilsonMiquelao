@@ -22,3 +22,4 @@
 
 Profissional da área financeira, apaixonado por tecnologia e com o sonho de trabalhar com desenvolvimento de softwares. A cada dia aprimorando habilidades que adquiri em meu diploma de Analise e Desenvolvimento de Sistemas e no meu curso de programador Full Stack em Python, HTML, CSS, Javascript e MySQL, através da Infinity School entidade Google e Microsoft partner.
 
+[CERTIFICADO_PFS_Wilson Augusto Costa Miquelao Alves.pdf](https://github.com/user-attachments/files/18677895/CERTIFICADO_PFS_Wilson.Augusto.Costa.Miquelao.Alves.pdf)
