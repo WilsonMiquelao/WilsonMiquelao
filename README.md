@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wilsonamalves/)
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-augusto-miquel%C3%A3o-abb894149/)
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)](https://wilsonmiquelao.github.io/meu-site/)
+[![Site]([https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://wilsonmiquelao.github.io/meu-site/)
 
 ![Wilson GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonMiquelao&show_icons=true&theme=dracula)
 
